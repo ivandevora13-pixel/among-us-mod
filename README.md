@@ -1,5 +1,6 @@
 # among-us-mod
-this is going to be updated regularly and because its my first time using git hub expect bugs and glitches 
+this is going to be updated regularly and because its my first time using git hub expect bugs and glitches im also a solo creator so pushing
+out updates will be hard to balance with school
  Adds two roles and a host-only lobby panel.
 
 - **Sheriff** (Crewmate): Shoot an Impostor to kill them; a misfire kills the Sheriff.
