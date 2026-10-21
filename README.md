@@ -12,6 +12,7 @@ Torch	Crewmate	Much larger vision radius
 Bounty Hunter	Impostor	Bounty each round; killing it resets your kill cooldown, anyone else = 35 s
 Jester	Neutral	Win by getting voted out; custom victory screen
 Plus the existing Sheriff and The Chosen One. The lobby LOBBY ROLES panel automatically lists all nine.
+
 **Install:** extract the zip into your Among Us folder (BepInEx 6 IL2CPP x86 required). Full instructions are in README.md inside the zip.
 
 Bundled: MiraAPI 0.6.0 and Reactor 2.5.0-ci.371 (patched for the SteamGG/itch 2026.9.29 build; use `extras/Reactor.dll.original` on Steam).
